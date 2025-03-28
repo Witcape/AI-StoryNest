@@ -11,9 +11,9 @@ An interactive AI powered platform that generates personalized animal stories fo
 
 ## 📸 Screenshots
 
-![Minimalist Mode] <img width="1417" alt="image" src="https://github.com/user-attachments/assets/b6d8e473-64d2-456d-ace8-58ba9a4ed893" />
+Minimalist Mode <img width="1417" alt="image" src="https://github.com/user-attachments/assets/b6d8e473-64d2-456d-ace8-58ba9a4ed893" />
 
-![Sister Project - Updated for question answering for College students] <img width="1420" alt="image" src="https://github.com/user-attachments/assets/5748a74e-ab3d-4a0c-a5b7-bb70de78a5a4" />
+Sister Project - Updated for question answering for College students <img width="1420" alt="image" src="https://github.com/user-attachments/assets/5748a74e-ab3d-4a0c-a5b7-bb70de78a5a4" />
 
 ## 🚀 How It Works
 1. Select the name of an animal.
